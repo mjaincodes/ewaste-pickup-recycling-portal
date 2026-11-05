@@ -1,0 +1,15 @@
+
+# Temporary and system files
+.DS_Store
+Thumbs.db
+*.log
+
+# Environment and secrets
+.env
+.env.*
+
+# Editor settings
+.vscode/
+
+# Keep database credentials private
+db.php
